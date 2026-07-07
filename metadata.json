@@ -1,0 +1,6 @@
+{
+  "name": "Dandali",
+  "description": "A modern simulated smartphone with built-in applications, advanced location manager with Nigerian coverage maps, and developer testing tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
